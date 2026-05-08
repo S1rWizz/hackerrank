@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/python-string-formatting/problem
+
 def print_formatted(n):
     wid=len(f"{n:b}")
     for i in range(1,n+1):

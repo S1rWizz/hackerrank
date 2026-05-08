@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/designer-door-mat/problem
+
 n,m=map(int,input().split())
 v_half=n//2
 mid=(m-7)//2
