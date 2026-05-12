@@ -1,3 +1,6 @@
+#https://www.hackerrank.com/challenges/py-introduction-to-sets
+
+
 def average(array):
     s1=list(set(array))
     n=len(s1)

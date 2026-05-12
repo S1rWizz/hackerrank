@@ -1,3 +1,5 @@
+#https://www.hackerrank.com/challenges/capitalize
+
 #!/bin/python3
 
 import math
