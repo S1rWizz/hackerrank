@@ -1,7 +1,8 @@
 def average(array):
-    n=len(arr)
-    s1=set(array)
-    return s1
+    s1=list(set(array))
+    n=len(s1)
+    return sum(s1)/n
+    
 
 if __name__ == '__main__':
     n = int(input())
