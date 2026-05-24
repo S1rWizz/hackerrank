@@ -1,6 +1,5 @@
 # https://neetcode.io/problems/duplicate-integer/history?list=neetcode150&submissionIndex=0
 
-
 class Solution:
     
     def hasDuplicate(self, nums: list[int]) -> bool:
