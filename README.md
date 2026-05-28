@@ -1,1 +1,1 @@
-Practise Questions for leetcode, hackerrank, and unstop
+Practise Questions for leetcode, hackerrank, neetcode and unstop 
